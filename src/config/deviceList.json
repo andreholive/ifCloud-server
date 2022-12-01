@@ -1,0 +1,25 @@
+{
+    "devices": [
+        {
+            "name": "cirros",
+            "imageRef": "f8f09f75-e0d1-4222-bdc3-c188675dd2f9",
+            "flavorRef": "c1",
+            "availability_zone": "nova",
+            "networks": "none"
+        },
+        {
+            "name": "lubuntu",
+            "imageRef": "3ecd2dc8-8e0e-4462-b399-65df4433d37e",
+            "flavorRef": "d2",
+            "availability_zone": "nova",
+            "networks": "none"
+        },
+        {
+            "name": "win7",
+            "imageRef": "01fd99c4-0d0f-4f86-a4e5",
+            "flavorRef": "c1",
+            "availability_zone": "nova",
+            "networks": "none"
+        }
+    ]
+}
