@@ -1,7 +1,7 @@
 import {Sequelize} from 'sequelize';
 const sequelize = new Sequelize('ifCloud','root','gaboardi', {
     dialect: 'mysql',
-    host: '192.168.0.104',
+    host: 'localhost',
     port: 3306
 });
 

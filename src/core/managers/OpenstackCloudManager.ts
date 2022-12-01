@@ -18,8 +18,8 @@ export type InstanceInformation = {
 }
 
 
-const BASE_URL = 'http://192.168.0.104';
-const PUBLIC_NETWORk_ID = '12c69d0e-6263-4ab0-8d83-0423241e41d2';
+const BASE_URL = 'http://200.135.57.16';
+const PUBLIC_NETWORk_ID = '4a85d559-3203-4e94-813c-a8084df242fb';
 
 const computeApi = axios.create({baseURL: `${BASE_URL}/compute/v2.1`});
 const networkApi = axios.create({baseURL: `${BASE_URL}:9696/networking`});

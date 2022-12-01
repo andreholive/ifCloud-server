@@ -2,14 +2,14 @@
     "devices": [
         {
             "name": "cirros",
-            "imageRef": "f8f09f75-e0d1-4222-bdc3-c188675dd2f9",
+            "imageRef": "94c942d1-6397-497d-b3e0-b1edd487cd60",
             "flavorRef": "c1",
             "availability_zone": "nova",
             "networks": "none"
         },
         {
             "name": "lubuntu",
-            "imageRef": "3ecd2dc8-8e0e-4462-b399-65df4433d37e",
+            "imageRef": "0ac527a6-2643-41fd-9444-5a17dbb197c7",
             "flavorRef": "d2",
             "availability_zone": "nova",
             "networks": "none"
